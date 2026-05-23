@@ -1,0 +1,20 @@
+File:
+2026-05-20_v1.0_On_the_Existence_of_Dynamics.pdf
+
+SHA256:
+Algorithm       Hash                                                                   
+---------       ----                                                                  
+SHA256          B8B124555342A4F1F9E3320898A7C66F625469E8B0D22DC88F4535AFF42A4970
+
+Date:
+2026-05-20
+
+Author:
+Dawid Marzec
+
+Title:
+On the Existence of Dynamics: Relational Closure and Stable Iterability as Operational Principles
+
+Version:
+v1.0
+
